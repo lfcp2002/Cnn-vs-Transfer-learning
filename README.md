@@ -25,6 +25,6 @@
 
 ## Detalhes do processo
 
-- **1.** O Colab deve estar conectado idealmente em GPU com T4, caindo de horas para minutos no tempo de execução (na minha execução com CPU no Colab, passou de quase 2 horas só rodando e chegaria perto de 3 horas).
+- **1.** O Colab deve estar conectado idealmente em GPU com T4, caindo de horas para minutos no tempo de execução (em um teste de execução com CPU no Colab, passou de 3 horas).
 - **2.** As épocas podem ser alteradas de acordo com o objetivo ou tempo.
 - **3.** O dataset usado é Cats vs Dogs disponível em: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
