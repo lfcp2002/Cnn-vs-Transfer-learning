@@ -1,4 +1,4 @@
-# Processo de aprendizagem e transferência com dataset de imagens
+# Comparação de rede neural convolucional treinada do zero com o Transfer Learning
 
 ## Tópicos
 - Código e suas funções.
