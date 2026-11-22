@@ -48,7 +48,7 @@ Tópicos
 
 3- Isso mostra que, com poucos dados (2100 imagens de treino), reaproveitar uma rede pré-treinada funciona muito melhor do que treinar uma do zero.
 
-(A tabela mostra o teste; os gráficos abaixo mostram a validação ao longo das épocas.)
+(Os gráficos abaixo mostram a validação ao longo das épocas.)
 
 ![Comparação entre a CNN do zero e o Transfer Learning](img/comparacao.gif)
 
