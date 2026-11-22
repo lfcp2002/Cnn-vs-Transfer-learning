@@ -40,7 +40,7 @@ Tópicos
 
 3- O conjunto de dados usado é Cats vs Dogs disponível em: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
 
-## Resultados
+## Resultados.
 
 1- Os dois modelos foram treinados por 10 épocas e testados nas mesmas 450 imagens.
 
