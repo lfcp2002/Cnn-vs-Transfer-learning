@@ -52,4 +52,4 @@ Tópicos
 
 ![Comparação entre a CNN do zero e o Transfer Learning](img/comparacao.gif)
 
-[▶ Assistir ao vídeo em alta qualidade](img/Comparaçao.mp4)
+[▶ Assistir ao vídeo em alta qualidade](img/ml_.mp4)
