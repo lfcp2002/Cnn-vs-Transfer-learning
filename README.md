@@ -32,4 +32,4 @@ Resultados
 * 2. A CNN do zero quase não aprendeu (perda de validação parada em torno de 0,69, o que é próximo de chute entre duas classes), enquanto o Transfer Learning passou de 98% de acurácia de validação nas primeiras épocas.
 * 3. Isso mostra que, com poucos dados (2100 imagens de treino), reaproveitar uma rede pré-treinada funciona muito melhor do que treinar uma do zero.
 
-[▶ Assistir ao vídeo da comparação](img/comparacao.mp4)
+[▶ Assistir ao vídeo da comparação](img/Comparaçao.png)
